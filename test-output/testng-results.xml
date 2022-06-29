@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-29T18:02:10 CEST" name="Suite" finished-at="2022-06-29T18:02:29 CEST" duration-ms="18188">
+    <groups>
+    </groups>
+    <test started-at="2022-06-29T18:02:10 CEST" name="Test" finished-at="2022-06-29T18:02:29 CEST" duration-ms="18188">
+      <class name="LOGIN.LOGINPASSANT">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LOGIN.LOGINPASSANT@78e117e3]" started-at="2022-06-29T18:02:10 CEST" name="beforeTest" finished-at="2022-06-29T18:02:14 CEST" duration-ms="3135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Login()[pri:0, instance:LOGIN.LOGINPASSANT@78e117e3]" started-at="2022-06-29T18:02:16 CEST" name="Login" finished-at="2022-06-29T18:02:20 CEST" duration-ms="3916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:LOGIN.LOGINPASSANT@78e117e3]" started-at="2022-06-29T18:02:29 CEST" name="afterTest" finished-at="2022-06-29T18:02:29 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- LOGIN.LOGINPASSANT -->
+      <class name="LOGIN.LOGOUTPASSANT">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LOGIN.LOGOUTPASSANT@2ea227af]" started-at="2022-06-29T18:02:14 CEST" name="beforeTest" finished-at="2022-06-29T18:02:16 CEST" duration-ms="2567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Login()[pri:0, instance:LOGIN.LOGOUTPASSANT@2ea227af]" started-at="2022-06-29T18:02:20 CEST" name="Login" finished-at="2022-06-29T18:02:24 CEST" duration-ms="4133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Logout()[pri:0, instance:LOGIN.LOGOUTPASSANT@2ea227af]" started-at="2022-06-29T18:02:24 CEST" name="Logout" finished-at="2022-06-29T18:02:29 CEST" duration-ms="4352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:LOGIN.LOGOUTPASSANT@2ea227af]" started-at="2022-06-29T18:02:29 CEST" name="afterTest" finished-at="2022-06-29T18:02:29 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- LOGIN.LOGOUTPASSANT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
